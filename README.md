@@ -6,9 +6,9 @@
 
 
 
- (/public/img/inicial.png?raw=true "Home")
+ ![Página inicial](/public/img/inicial.png?raw=true "Home")
 
- (/public/img/dexcricao.png?raw=true "Description")
+ ![Descrição](/public/img/dexcricao.png?raw=true "Description")
 
 
 [Deploy](https://app-my-movie.herokuapp.com/)
